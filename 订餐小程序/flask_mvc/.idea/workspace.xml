@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b79dc287-5c13-43c4-853f-84cef4a190dd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XYdsgWse0Nod0st7DPaiTGKfuG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../复习/剑指offer" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/static/js/member" />
+      <recent name="$PROJECT_DIR$/web/templates/common" />
+      <recent name="$PROJECT_DIR$/web/templates" />
+      <recent name="$PROJECT_DIR$/web/templates/member" />
+      <recent name="$PROJECT_DIR$/web/static/js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/common/models/food" />
+      <recent name="$PROJECT_DIR$/common/libs" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b79dc287-5c13-43c4-853f-84cef4a190dd" name="Default Changelist" comment="" />
+      <created>1579485048626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579485048626</updated>
+      <workItem from="1579485050343" duration="56000" />
+      <workItem from="1579485176113" duration="4589000" />
+      <workItem from="1579493446443" duration="59000" />
+      <workItem from="1579493583455" duration="65871000" />
+      <workItem from="1579922570320" duration="1698000" />
+      <workItem from="1580521246421" duration="6737000" />
+      <workItem from="1580537605383" duration="11821000" />
+      <workItem from="1581227173760" duration="1455000" />
+      <workItem from="1581237784362" duration="779000" />
+      <workItem from="1581298912920" duration="4604000" />
+      <workItem from="1581312818864" duration="4252000" />
+      <workItem from="1581402108778" duration="1261000" />
+      <workItem from="1581470514606" duration="701000" />
+      <workItem from="1581644799818" duration="36323000" />
+      <workItem from="1581741579079" duration="13636000" />
+      <workItem from="1581839772743" duration="1657000" />
+      <workItem from="1581903997386" duration="4992000" />
+      <workItem from="1581989295717" duration="5949000" />
+      <workItem from="1582076483922" duration="7505000" />
+      <workItem from="1582508299643" duration="7863000" />
+      <workItem from="1582594242697" duration="9660000" />
+      <workItem from="1582855364915" duration="640000" />
+      <workItem from="1582940413511" duration="36000" />
+      <workItem from="1583201261465" duration="8774000" />
+      <workItem from="1583286548545" duration="6467000" />
+      <workItem from="1583562893023" duration="678000" />
+      <workItem from="1583805679117" duration="33000" />
+      <workItem from="1584063984864" duration="9986000" />
+      <workItem from="1584090090279" duration="14327000" />
+      <workItem from="1584408816896" duration="852000" />
+      <workItem from="1586136660267" duration="33334000" />
+      <workItem from="1586655283151" duration="16758000" />
+      <workItem from="1586739042902" duration="1233000" />
+      <workItem from="1586843872342" duration="8852000" />
+      <workItem from="1586909057549" duration="16275000" />
+      <workItem from="1586997370627" duration="5842000" />
+      <workItem from="1587085186934" duration="7155000" />
+      <workItem from="1587171581179" duration="43015000" />
+      <workItem from="1588297021602" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2663" y="278" width="424" height="484" key="FileChooserDialogImpl" timestamp="1588297045277">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="281" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.988@0.27.1920.988" timestamp="1587016913033" />
+    <state x="2663" y="278" width="424" height="484" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.988@1920.0.1920.1080" timestamp="1588297045277" />
+    <state x="2342" y="216" key="SettingsEditor" timestamp="1587022369435">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2342" y="216" key="SettingsEditor/1920.0.1920.1080/0.27.1920.988@1920.0.1920.1080" timestamp="1587022369435" />
+    <state x="2534" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1588297024142">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2534" y="347" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.27.1920.988@1920.0.1920.1080" timestamp="1588297024142" />
+    <state x="2543" y="241" width="672" height="678" key="search.everywhere.popup" timestamp="1581753569562">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="241" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.27.1920.988@1920.0.1920.1080" timestamp="1581753569562" />
+  </component>
+</project>

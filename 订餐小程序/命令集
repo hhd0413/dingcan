@@ -1,0 +1,34 @@
+pip install -r requirements.txt
+
+export ops_config = local
+python manager.py runserver
+
+# 虚拟环境启动
+cd /home/huhaidi/文档/订餐小程序/flask_mvc
+source /home/huhaidi/文档/订餐小程序/imooc_env/bin/activate
+
+# 项目启动
+export ops_config=local && python manager.py runserver
+
+# 小程序启动
+cd /home/huhaidi/software/wechat_web_devtools
+./bin/wxdt
+
+# 小程序参数
+'appid':'wx3e738875d01d80aa',
+'secret':'d2c5a56b5e524cd9d713d16ea5ccfeb5'
+
+
+flask-sqlacodegen 'mysql://root:123456@127.0.0.1/food_db?charset=utf8mb4' --tables app_access_log --outfile "common/models/log/AppAccessLog.py"  --flask
+
+flask-sqlacodegen 'mysql://root:123456@127.0.0.1/food_db?charset=utf8mb4' --tables oauth_member_bind --outfile "common/models/member/OauthMember.py"  --flask
+
+
+
+flask-sqlacodegen 'mysql://root:123456@127.0.0.1/food_db?charset=utf8mb4' --tables oauth_access_token --outfile "common/models/pay/OauthAccessToken.py"  --flask
+
+flask-sqlacodegen 'mysql://root:123456@127.0.0.1/food_db?charset=utf8mb4' --tables member_address --outfile "common/models/member/MemberAddress.py"  --flask
+
+
+
+
